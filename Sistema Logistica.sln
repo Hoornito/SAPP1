@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemaLogisticaAPI", "SistemaLogisticaAPI\SistemaLogisticaAPI.csproj", "{1D747B54-014B-4A48-A644-75CA93BD97A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{A706DF2D-5A69-45F1-9AB4-AAD2038EAA5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D747B54-014B-4A48-A644-75CA93BD97A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D747B54-014B-4A48-A644-75CA93BD97A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D747B54-014B-4A48-A644-75CA93BD97A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D747B54-014B-4A48-A644-75CA93BD97A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A706DF2D-5A69-45F1-9AB4-AAD2038EAA5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A706DF2D-5A69-45F1-9AB4-AAD2038EAA5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A706DF2D-5A69-45F1-9AB4-AAD2038EAA5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A706DF2D-5A69-45F1-9AB4-AAD2038EAA5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D4D316A-85EB-4F83-819C-1F44E4D413CA}
+	EndGlobalSection
+EndGlobal
